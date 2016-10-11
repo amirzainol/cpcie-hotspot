@@ -1,1 +1,1 @@
-# cpcie-hotspot
+# CPCIe with Hotspot benchmark
